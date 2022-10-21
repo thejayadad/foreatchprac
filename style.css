@@ -8,12 +8,10 @@ body {
     background: lightgray;
     font-family: cursive;
 }
-
-#box {
-    width: 400px;
+#box{
     background: white;
+    width: 400px;
     border-radius: 5px;
-
 }
 
 .row{
