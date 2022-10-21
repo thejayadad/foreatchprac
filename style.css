@@ -1,0 +1,22 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background: lightgray;
+    font-family: cursive;
+}
+
+#box {
+    width: 400px;
+    background: white;
+    border-radius: 5px;
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
